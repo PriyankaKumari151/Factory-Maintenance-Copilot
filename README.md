@@ -1,4 +1,4 @@
-# Factory Maintenance Copilot — two-day interview lab
+# Factory Maintenance Copilot
 
 All factory records, SOPs, inventory, and ticket APIs are synthetic. This is a local prototype, not a deployed industrial control system. The application never controls equipment.
 
