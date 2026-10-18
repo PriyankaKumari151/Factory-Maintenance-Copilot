@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+data/*.db
+data/clean_*.csv
+data/rejected_*.csv
+data/cleaning_report.json
+evaluation_results.json

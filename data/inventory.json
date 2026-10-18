@@ -1,0 +1,32 @@
+[
+  {
+    "part_id": "P001",
+    "part_name": "Conveyor belt",
+    "stock_quantity": 3
+  },
+  {
+    "part_id": "P002",
+    "part_name": "Photoelectric sensor",
+    "stock_quantity": 2
+  },
+  {
+    "part_id": "P003",
+    "part_name": "Sealing element",
+    "stock_quantity": 0
+  },
+  {
+    "part_id": "P004",
+    "part_name": "Film guide",
+    "stock_quantity": 4
+  },
+  {
+    "part_id": "P005",
+    "part_name": "Pressure regulator",
+    "stock_quantity": 1
+  },
+  {
+    "part_id": "P006",
+    "part_name": "Cooling filter",
+    "stock_quantity": 5
+  }
+]

@@ -1,0 +1,4 @@
+machine_id,machine_name,machine_type
+M001,Conveyor,conveyor
+M002,Packaging machine,packager
+M003,Compressor,compressor
